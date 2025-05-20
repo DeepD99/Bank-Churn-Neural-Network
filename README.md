@@ -88,8 +88,3 @@ The final neural network model demonstrated effective performance in predicting 
 | `README.md`                      | Project overview and documentation           |
 
 ---
-
-## ✨ Author
-
-Adam Smith  
-*PGP AI/ML Candidate | Data Science Enthusiast*

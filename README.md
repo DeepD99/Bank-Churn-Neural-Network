@@ -77,14 +77,3 @@ The final neural network model demonstrated effective performance in predicting 
 - SMOTE (for handling class imbalance)
 
 ---
-
-## 📂 Project Contents
-
-| File Name                         | Description                                  |
-|----------------------------------|----------------------------------------------|
-| `Bank_Churn_Prediction.ipynb`    | Complete Jupyter notebook for the project    |
-| `Churn_Dataset.csv`              | Raw dataset used for analysis and modeling   |
-| `Churn_Project_Summary.pdf`      | Presentation-ready summary (optional)        |
-| `README.md`                      | Project overview and documentation           |
-
----
